@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Epiplex</title>
+      <title>Queensland Government</title>
     </Head>
       <div>
         <h4></h4>
