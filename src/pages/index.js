@@ -9,7 +9,8 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Bank</title>
+      <title>Oscar</title>
+      <link rel="icon" href="druidai_logo.jpeg" />
     </Head>
       <div>
         <h4></h4>
