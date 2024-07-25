@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Queensland Government</title>
+      <title>Bank</title>
     </Head>
       <div>
         <h4></h4>
