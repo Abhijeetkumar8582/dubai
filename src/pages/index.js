@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Oscar</title>
+      <title>Dubai Municipality</title>
       <link rel="icon" href="druidai_logo.jpeg" />
     </Head>
       <div>
